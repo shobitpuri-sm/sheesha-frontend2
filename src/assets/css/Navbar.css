@@ -1,0 +1,17 @@
+.text-primary {
+  color: #1b3e8f;
+}
+
+.text-secondary {
+  color: #58bc8a;
+}
+
+.connect-wallet {
+  background: #1ec186 0% 0% no-repeat padding-box;
+  box-shadow: 0px 14px 23px #1ec18661;
+  border-radius: 7px;
+}
+
+.navbarshadow {
+  box-shadow: 0px 7px 21px #00000014;
+}
