@@ -1,0 +1,5 @@
+.hexagon-shadow {
+  -webkit-filter: drop-shadow(0px 7px 16px #2944AE26);
+  filter: drop-shadow(0px 7px 16px #2944AE26);
+
+}
